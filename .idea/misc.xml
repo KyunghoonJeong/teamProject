@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+<<<<<<< HEAD
+=======
+        <entry key="..\:/Users/SM210711/Documents/teamProject/app/src/main/res/layout/activity_main.xml" value="0.22" />
+>>>>>>> 1c89fcd889210d017a28f1eeca1f316eede921b5
         <entry key="..\:/Users/SM210711/Documents/teamProject/app/src/main/res/layout/activity_splash.xml" value="0.15555555555555556" />
       </map>
     </option>
