@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">wowbro2</string>
+
+
+<!--    버튼들-->
+    <string name = "skip_btn">Skip</string>
+    <string name = "next_btn">Next</string>
+    <string name = "let_get_started">Lets Get started</string>
+    
+    
+<!--    대쉬보드를 위한 string-->
+    
+
+
+
+
+
+
+
+</resources>
